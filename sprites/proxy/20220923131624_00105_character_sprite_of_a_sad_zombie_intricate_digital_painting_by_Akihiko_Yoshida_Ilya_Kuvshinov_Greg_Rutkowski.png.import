@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/20220923131624_00105_character_sprite_of_a_sad_zombie_intricate_digital_painting_by_Akihiko_Yoshida_Ilya_Kuvshinov_Greg_Rutkowski.png-becc3d2eaba82c73be8082fbab645171.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://sprites/proxy/zombies/20220923131624_00105_character_sprite_of_a_sad_zombie_intricate_digital_painting_by_Akihiko_Yoshida_Ilya_Kuvshinov_Greg_Rutkowski.png"
+dest_files=[ "res://.import/20220923131624_00105_character_sprite_of_a_sad_zombie_intricate_digital_painting_by_Akihiko_Yoshida_Ilya_Kuvshinov_Greg_Rutkowski.png-becc3d2eaba82c73be8082fbab645171.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
